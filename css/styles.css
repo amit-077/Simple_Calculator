@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+}
+
+.main-body{
+  height: 31.25rem;
+  width: 25rem;
+  margin: auto;
+}
+
+.btn{
+  margin: 5px 13px;
+  font-size: 30px;
+  font-weight: 100;
+  padding: 20px;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 0 2px;
+  cursor: pointer;
+}
+
+#display{
+  width: 300px;
+  height: 60px;
+  margin-bottom: 40px;
+  border-radius: 20px;
+  font-size: 30px;
+  padding: 0 10px;
+  box-shadow: 0 0 1px;
+
+}
+
+.main-body{
+  background-color: #383838;
+  margin-top: 30px;
+  padding-top: 40px;
+  border-radius: 40px 40px 20px 20px;
+
+}
